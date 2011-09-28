@@ -1,5 +1,5 @@
 /////////////////////////////////////////////////////////////////////////////
-// Name:        treelistctrl.h
+// Name:        wx/treelistctrl.h
 // Purpose:     wxTreeListCtrl class
 // Author:      Robert Roebling
 // Maintainer:  Otto Wyss

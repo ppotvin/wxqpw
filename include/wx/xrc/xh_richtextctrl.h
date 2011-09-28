@@ -1,10 +1,10 @@
-/**
- * @file xh_richtextctrl.hpp
- * TODO 2011-09-03 Ajouter une description
- * 
- * @date 2011-09-03
- * @author Pascal Potvin
- */
+/////////////////////////////////////////////////////////////////////////////
+// Name:        wx/xrc/xh_richtextctrl.h
+// Purpose:     XRC resource for wxRichTextCtrl
+// Author:      Pascal Potvin
+// Created:     25.05.11
+// Licence:     wxWindows licence
+/////////////////////////////////////////////////////////////////////////////
 
 #ifndef _WX_XH_RICHTEXTCTRL_HPP_
 #define _WX_XH_RICHTEXTCTRL_HPP_

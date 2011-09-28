@@ -1,10 +1,10 @@
-/**
- * @file xh_icontextctrl.hpp
- * TODO 2011-09-24 Ajouter une description
- * 
- * @date 2011-09-24
- * @author pp
- */
+/////////////////////////////////////////////////////////////////////////////
+// Name:        wx/xrc/xh_icontextctrl.h
+// Purpose:     XRC resource for wxIconTextCtrl
+// Author:      Pascal Potvin
+// Created:     25.05.11
+// Licence:     wxWindows licence
+/////////////////////////////////////////////////////////////////////////////
 
 #ifndef _WX_XH_ICONTEXTCTRL_H_
 #define _WX_XH_ICONTEXTCTRL_H_

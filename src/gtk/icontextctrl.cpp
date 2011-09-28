@@ -1,10 +1,11 @@
-/**
- * @file icontextctrl.cpp
- * TODO 2011-09-21 Ajouter une description
- *
- * @date 2011-09-21
- * @author pp
- */
+/////////////////////////////////////////////////////////////////////////////
+// Name:        gtk/icontextctrl.cpp
+// Purpose:     wxIconTextCtrl GTK Implementation
+// Author:      Pascal Potvin
+// Created:     21.09.11
+// Copyright:   (c) Pascal Potvin
+// Licence:     wxWindows licence
+/////////////////////////////////////////////////////////////////////////////
 
 // For compilers that support precompilation, includes "wx.h".
 #include "wx/wxprec.h"

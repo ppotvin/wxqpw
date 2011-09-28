@@ -1,10 +1,11 @@
-/**
- * @file icontextctrl.cpp
- * TODO 2011-09-27 Ajouter une description
- * 
- * @date 2011-09-27
- * @author pp
- */
+/////////////////////////////////////////////////////////////////////////////
+// Name:        common/icontextctrl.cpp
+// Purpose:     wxIconTextCtrl Implementation
+// Author:      Pascal Potvin
+// Created:     27.09.11
+// Copyright:   (c) Pascal Potvin
+// Licence:     wxWindows licence
+/////////////////////////////////////////////////////////////////////////////
 
 // For compilers that support precompilation, includes "wx.h".
 #include "wx/wxprec.h"

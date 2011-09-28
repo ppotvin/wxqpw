@@ -1,10 +1,13 @@
-/**
- * @file icontextctrl.hpp
- * TODO 2011-09-21 Ajouter une description
- * 
- * @date 2011-09-21
- * @author pp
- */
+///////////////////////////////////////////////////////////////////////////////
+// Name:        wx/gtk/icontextctrl.h
+// Purpose:     wxIconTextCtrl class - The wxGTK version
+// Author:      Pascal Potvin
+// Modified by:
+// Created:     21.09.11
+// RCS-ID:      $Id$
+// Copyright:   (c) Pascal Potvin
+// Licence:     wxWindows licence
+///////////////////////////////////////////////////////////////////////////////
 
 #ifndef _WX_GTK_ICONTEXTCTRL_H_
 #define _WX_GTK_ICONTEXTCTRL_H_

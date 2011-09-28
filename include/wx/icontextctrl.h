@@ -1,5 +1,5 @@
 ///////////////////////////////////////////////////////////////////////////////
-// Name:        wx/icontextctrl.h
+// Name:        wx/gtk/icontextctrl.h
 // Purpose:     wxIconTextCtrlBase class - the interface of wxIconTextCtrl
 // Author:      Pascal Potvin
 // Modified by:

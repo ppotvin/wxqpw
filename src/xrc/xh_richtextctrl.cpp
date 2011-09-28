@@ -1,10 +1,11 @@
-/**
- * @file xh_richtextctrl.cpp
- * TODO 2011-09-03 Ajouter une description
- * 
- * @date 2011-09-03
- * @author Pascal Potvin
- */
+/////////////////////////////////////////////////////////////////////////////
+// Name:        xrc/xh_richtextctrl.cpp
+// Purpose:     wxRichTextCtrlXmlHandler Implementation
+// Author:      Pascal Potvin
+// Created:     25.05.11
+// Copyright:   (c) Pascal Potvin
+// Licence:     wxWindows licence
+/////////////////////////////////////////////////////////////////////////////
 
 // For compilers that support precompilation, includes "wx.h".
 #include "wx/wxprec.h"

@@ -1,5 +1,5 @@
 /////////////////////////////////////////////////////////////////////////////
-// Name:        treelistctrl.cpp
+// Name:        common/treelistctrl.cpp
 // Purpose:     multi column tree control implementation
 // Author:      Robert Roebling
 // Maintainer:  Otto Wyss

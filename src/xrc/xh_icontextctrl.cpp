@@ -1,10 +1,11 @@
-/**
- * @file xh_icontextctrl.cpp
- * TODO 2011-09-24 Ajouter une description
- * 
- * @date 2011-09-24
- * @author pp
- */
+/////////////////////////////////////////////////////////////////////////////
+// Name:        xrc/xh_icontextctrl.cpp
+// Purpose:     wxIconTextCtrlXmlHandler Implementation
+// Author:      Pascal Potvin
+// Created:     24.09.11
+// Copyright:   (c) Pascal Potvin
+// Licence:     wxWindows licence
+/////////////////////////////////////////////////////////////////////////////
 
 // For compilers that support precompilation, includes "wx.h".
 #include "wx/wxprec.h"

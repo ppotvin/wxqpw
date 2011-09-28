@@ -1,8 +1,8 @@
 /////////////////////////////////////////////////////////////////////////////
-// Name:        xh_treelistctrl.cpp
+// Name:        xrc/xh_treelistctrl.cpp
 // Purpose:     XRC resource for wxTreeListCtrl
 // Author:      Pascal Potvin
-// Created:     2011/05/25
+// Created:     25.05.11
 // Licence:     wxWindows licence
 /////////////////////////////////////////////////////////////////////////////
 
